@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cookie&family=Luxurious+Roman&family=Permanent+Marker&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cookie&family=Luxurious+Roman&family=Orbitron:wght@500&family=Permanent+Marker&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cookie&family=Luxurious+Roman&family=Mochiy+Pop+P+One&family=Orbitron:wght@500&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 body {
     margin: 0;
     font-family: "Lato", sans-serif;
@@ -22,6 +23,11 @@ body {
   }
   h2{
     font-family: 'Permanent Marker', cursive;
+  }
+  table{
+    background-color: #20b2aa;
+    color: #343535;
+    font-family: 'Anton', sans-serif;
   }
   
   .sidebar a {
