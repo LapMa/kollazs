@@ -70,4 +70,15 @@ body {
       text-align: center;
       float: none;
     }
+      footer{
+    font-size: 3px;
+}
+button{
+    border-color: black;
+}
+  }
+.kep{
+    width:25px;
+    height: 25px;
+}
   }
