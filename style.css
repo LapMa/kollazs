@@ -70,9 +70,15 @@ body {
       text-align: center;
       float: none;
     }
-footer{
-    font-size: 3px;
-}
+ .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: rgb(138, 129, 146);
+      color: white;
+      text-align: center;
+   }
 button{
     border-color: black;
 }
@@ -83,6 +89,7 @@ button{
 }
 .urlap{
 background-color:moccasin;
-width: 45%;
-height: 55%;
+width: 20%;
+height: 37%;
+padding: 1%;
 }
