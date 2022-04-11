@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="sidebar">
+
+        <a href="index.html">FOOLDAL</a>
+        <a href="Képlink.html">Képlink</a>
+        <a href="Listák.html">Listák</a>
+        <a href="Órarend.html">Órarend</a>
+        <a href="Űrlap.html">Űrlap</a>
+        <a href="Évszakok.html">Évszakok</a>
+        <a href="billentyűzet.html">Billentyűzetek</a>
+        <a class="active" href="pitagorasz.html">Pitagorasz</a>
+        </div>
+    <div class="content">
+        <img src="derékszög.png" alt="derékszögű háromszög">
+        <fieldset>
+        <input type="number" id="a"name="a" placeholder="a értéke">
+        
+        <input type="number" id="b" name="b" placeholder="b értéke">
+        <p id="eredmeny">erdemeny</p>
+        <button onclick="var_a.value,var_b.value" >Számolás</button>
+        </fieldset>
+    </div>
+
+    <script>
+        var a = 0
+        var b = 0
+
+    function alert(a,b){
+
+    c = Math.sqrt(a*a,b*b) 
+    document.getElementById("eredmeny").innerHTML = c
+}
+
+    </script>
+</body>
+</html>
