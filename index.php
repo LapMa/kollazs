@@ -44,7 +44,7 @@
     <a href="bejelentkezés.html">Bejelentkezés</a>
     <a  href="pitagorasz.html">Pitagorasz</a>
     </div>
-<div class=".container md-2 bg-primary  ">
+<div>
   
   <h1>LM oldala</h1>
   <h3>Lapostyán Martin vagyok 15 éves lettem december 12-én a Miskolci Kandó Kálmán Infrotmatika és Technikum 9.C osztályába járok.
